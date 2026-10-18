@@ -1,11 +1,3 @@
-// =============================================================================
-// PRAKTIKUM 4: MEMBANGUN GRAPHQL API FROM SCRATCH DI ATAS MODULE HTTP NODE.JS
-// =============================================================================
-
-// Tips untuk Tugas Mahasiswa Butir 2:
-// Ganti atau isi baris console.log identitas Anda di bawah ini:
-// console.log('Nama Lengkap - Stambuk');
-
 // ---------- pemanggilan module dan konstanta ----------
 const http = require('http');
 const fs = require('fs/promises');

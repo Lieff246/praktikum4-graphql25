@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Danau Poso",
+    "category": "danau",
+    "regionId": 2
+  },
+  {
+    "id": 2,
+    "name": "Pantai Tanjung Karang",
+    "category": "pantai",
+    "regionId": 3
+  },
+  {
+    "id": 3,
+    "name": "Kepulauan Togean",
+    "category": "bahari",
+    "regionId": 4
+  },
+  {
+    "id": 4,
+    "name": "Taman Nasional Lore Lindu",
+    "category": "alam",
+    "regionId": 5
+  },
+  {
+    "id": 5,
+    "name": "Pantai Talise",
+    "category": "pantai",
+    "regionId": 1
+  },
+  {
+    "id": 6,
+    "name": "Puncak Matantimali",
+    "category": "alam",
+    "regionId": 5
+  }
+]

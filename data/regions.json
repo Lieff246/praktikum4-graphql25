@@ -1,0 +1,7 @@
+[
+ { "id": 1, "name": "Palu", "latitude": -0.89, "longitude": 119.87 },
+ { "id": 2, "name": "Poso", "latitude": -1.39, "longitude": 120.75 },
+ { "id": 3, "name": "Donggala", "latitude": -0.68, "longitude": 119.74 },
+ { "id": 4, "name": "Tojo Una-Una", "latitude": -0.87, "longitude": 121.59 },
+ { "id": 5, "name": "Sigi", "latitude": -1.01, "longitude": 119.93 }
+]
